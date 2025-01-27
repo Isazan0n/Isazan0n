@@ -2,6 +2,11 @@
 
  Estou dando meus primeiros passos no fascinante universo da programação. Sou movida pela curiosidade e pelo desejo de criar soluções que possam impactar o mundo. Cada linha de código que escrevo é um aprendizado e uma conquista, e estou animada para explorar as infinitas possibilidades dessa jornada.
 
+ <div>
+   <a href = "mailto:Programmer.isazanon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabela-zanon-ferrarini-5b18b22a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+
  ### 🤖 Linguagens e Tecnologias
 
 <img 
